@@ -1,4 +1,8 @@
-# <img src="firewall-applet.png" alt="Grass Crest Shield Icon" width="30" /> Grass Crest Shield Firewall Applet
+<p align="center">
+  <img src="firewall-applet.png" alt="Grass Crest Shield Icon" />
+</p>
+
+# Grass Crest Shield Firewall Applet
 
 A custom Dark Souls–themed tray icon for the Cinnamon `firewall-applet`.
 
